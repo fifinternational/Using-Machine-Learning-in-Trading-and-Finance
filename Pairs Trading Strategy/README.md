@@ -14,9 +14,10 @@ You'll need to install some libraries to complete the notebook. Create a new cel
 %pip install -U auquan_toolbox --user
 ```
 ## About
-This lab is based on Qwiklabs Supported by Google Cloud Platform(GCP).
+This lab is based on Qwiklabs Supported by [Google Cloud Platform(GCP)](https://cloud.google.com/). 
 
 Main Webpage for Qwiklabs: https://www.qwiklabs.com/
 
-In this lab, I explore some of the concepts behind pairs trading by leveraging the Auquan Toolbox, a Python library that provides tools for developing trading algorithms.
+In this lab, I explore some of the concepts behind pairs trading by leveraging the [Auquan Toolbox](https://github.com/Auquan/auquan-toolbox-python), a Python library that provides tools for developing trading algorithms.
 
+Related Auquan blog post:  [Pairs Trading using Data-Driven Techniques: Simple Trading Strategies Part 3](https://medium.com/auquan/pairs-trading-data-science-7dbedafcfe5a).
